@@ -1,5 +1,3 @@
----
-
 ## Rotas disponíveis
 
 Prefixo base: /api/updates
